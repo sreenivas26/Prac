@@ -15,6 +15,7 @@ The code is reviewed can deplo on prod"
 =======
 "This code has been tested under Test env"
 
+<<<<<<< HEAD
 
 New commit
 =======
@@ -23,3 +24,6 @@ HEAD
 
 New config defined
 =======
+=======
+"Switched to prod env"
+30d9c8fc3ad3ff0d95e57ac3740d677972ea2c5e
